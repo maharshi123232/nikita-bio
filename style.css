@@ -1,0 +1,42 @@
+body,head{
+      height:400px;
+      width:1000px;   
+      background-color:#dcd6f7;
+      /* background-image: url('neet.jpg'); */
+}
+h1{
+     color :black;
+     background-color: pink;
+    
+}
+.data{
+     text-align:center;
+     border-image:50%;
+     background-color:#66bfbf;
+     margin-left: 100px;
+     left:180px;
+     margin-top:80px;
+     border-radius: 10%;
+     object-fit: cover;
+     background-image: url('div1.jpg');
+     font-family: 'Playwrite AU TAS Guides', sans-serif;
+     font-size: 12px;
+     position:relative;
+     
+}
+.image{
+   border-radius:50%
+}
+.results{
+    background-image: url('div2.jpg');
+     text-align:center;
+     background-color: #dfcdc3;
+     margin-left:100px;
+     left:180px;
+     margin-top:20px;
+     object-fit:cover;
+     border-radius:50%;
+     font-family: 'Playwrite AU TAS Guides', sans-serif;
+     font-size: 12px;
+     position:relative;
+}
